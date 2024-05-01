@@ -1,0 +1,11 @@
+.idea
+.vscode
+requirements.txt
+/stuff/__pycache__
+/assets
+/htmlcov
+report.html
+report.xml
+.coverage
+.pytest_cache
+/tests/__pycache__
